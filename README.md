@@ -1,4 +1,5 @@
-# This is a Front-end repo
+# This is my Rails training repo.
 
 ## Content
-- Day 1: Created a simple portfolio using HTML, CSS and JS, And deployed it. <a href="https://ebra-portfolio.netlify.app/" target="_blank">See here</a>
+- Week 1: Studied Ruby along with some HackerRank problem solving.
+- Week 2: Front-end (in progress)
