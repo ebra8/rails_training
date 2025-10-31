@@ -1,4 +1,5 @@
 ## Day 1
-Built and deployed Birds Counter App using JavaScript. <a href="https://birds-counter-js.netlify.app/">See here</a>
+- Built and deployed Birds Counter App using JavaScript. <a href="https://birds-counter-js.netlify.app/">See here</a>
+- Finished Practice Time - Part 1
 
-![day's-output](day's-output.png)
+![birds_counter](birds_counter.png)

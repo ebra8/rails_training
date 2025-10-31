@@ -1,4 +1,5 @@
 ## Day 2
-Built BlackJack game.
+- Built BlackJack game.
+- Finished Practice Time - Part 2
 
-![day's-output](day's-output.png)
+![blackjack](blackjack.png)
